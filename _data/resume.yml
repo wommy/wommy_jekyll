@@ -1,0 +1,31 @@
+nav: [
+  contact,
+  education,
+  experience,
+  expertise:
+    design
+    development
+    database
+    deployment
+    other
+  hobbies
+]
+contact:
+education:
+ui-ux:
+frontend:
+backend:
+database:
+deployment:
+other:
+  git: link
+  ssh: link
+  ssl: link
+  ftp: link
+  psych:
+    - test creation
+    - data collection
+    - statistical analysis
+hobbies:
+  kungfu: 1 year
+  cycling: 6 years
